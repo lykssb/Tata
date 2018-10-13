@@ -1,3 +1,3 @@
-幸福的说法是否，asfddsfsafsdalnew
-sfddsa
-合理，另一款试试吧
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
